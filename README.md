@@ -2,9 +2,8 @@
 
 This repository is a **daily learning journal**.
 
-It is not a diary.
-It is not a status report.
-It is a place to **think clearly about what you are learning**.
+It is not a diary. It is not a status report. It is a place to **think clearly
+about what you are learning**.
 
 You will write **one short entry per day**.
 
@@ -18,7 +17,8 @@ Every working day, do the following:
 deno task til
 ```
 
-This will generate a Markdown file for today inside the `logs/` folder based on today's date.
+This will generate a Markdown file for today inside the `logs/` folder based on
+today's date.
 
 Then:
 
@@ -71,20 +71,15 @@ Example:
 
 Each daily entry has the same structure:
 
-- **Today I Learned**
-  Things that _clicked_ today.
+- **Today I Learned** Things that _clicked_ today.
 
-- **Still Confusing**
-  Things that almost make sense but don’t yet.
+- **Still Confusing** Things that almost make sense but don’t yet.
 
-- **Questions to Chase**
-  Questions worth thinking about later.
+- **Questions to Chase** Questions worth thinking about later.
 
-- **Tiny Experiments (Optional)**
-  Small ideas to try out.
+- **Tiny Experiments (Optional)** Small ideas to try out.
 
-- **One-Sentence Summary**
-  Why today was useful.
+- **One-Sentence Summary** Why today was useful.
 
 Follow the prompts. Do not add new sections.
 
